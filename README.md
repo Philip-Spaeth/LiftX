@@ -20,4 +20,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or suggestions, please contact the project maintainer at [yphilipspaeth@outlook.de](mailto:philipspaeth@outlook.de).
+For questions or suggestions, please contact the project maintainer at [philipspaeth@outlook.de](mailto:philipspaeth@outlook.de).
